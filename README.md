@@ -42,4 +42,4 @@ identifier που ξεκινάει κάθε κελί της σχάρας και 
 ![Alt Text](/output/window_result_10_first.png)
 
 Αποτέλεσμα από ερώτημα 100 πλησιέστερων γειτόνων(10 πρώτα σημεία)<br/>
-![Alt Text](/output/100_nearest_searh_result_10_first.png)
+![Alt Text](/output/100_nearest_search_result_10_first.png)
