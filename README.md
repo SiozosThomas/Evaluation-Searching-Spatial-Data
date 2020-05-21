@@ -43,3 +43,6 @@ identifier που ξεκινάει κάθε κελί της σχάρας και 
 
 Αποτέλεσμα από ερώτημα 100 πλησιέστερων γειτόνων(10 πρώτα σημεία)<br/>
 ![Alt Text](/output/100_nearest_search_result_10_first.png)
+
+## Copyright
+[MIT](https://github.com/SiozosThomas/Evaluation-Searching-Spatial-Data/blob/master/LICENSE) © 2020 Thomas Siozos
